@@ -44,10 +44,10 @@ pip install scikit-learn
 pip install scipy
 pip install cython
 pip install jupyter
-pip install pandas
 pip install git+https://github.com/qubvel/classification_models.git
 pip install https://download.pytorch.org/whl/cu100/torch-1.0.1.post2-cp36-cp36m-linux_x86_64.whl
 pip install torchvision
+pip install torchsummary
 pip install python-utils
 
 
