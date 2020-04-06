@@ -49,6 +49,7 @@ pip install https://download.pytorch.org/whl/cu100/torch-1.0.1.post2-cp36-cp36m-
 pip install torchvision
 pip install torchsummary
 pip install python-utils
+pip install seaborn
 
 
 %environment
