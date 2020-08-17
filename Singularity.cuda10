@@ -50,6 +50,7 @@ pip install torchvision
 pip install torchsummary
 pip install python-utils
 pip install seaborn
+pip install snakeviz
 
 
 %environment
